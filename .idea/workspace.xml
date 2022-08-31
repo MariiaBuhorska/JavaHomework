@@ -1,36 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0531ac66-5ce4-4502-b8d3-66b9771271b0" name="Changes" comment="Homework 27.08.2022 t3">
-      <change afterPath="$PROJECT_DIR$/java/lang/annotations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_29_08_2022/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_29_08_2022/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_29_08_2022/Task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_29_08_2022/Task12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_29_08_2022/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_29_08_2022/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_29_08_2022/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_29_08_2022/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_29_08_2022/Task5practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_29_08_2022/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_29_08_2022/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_29_08_2022/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_29_08_2022/Task9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/logika.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Task05Zodiac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ZnakiZodiaka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaQA22.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaQA22.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Task01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Task02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Task03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson2/EnterData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/EnterData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task4/task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/task4/task4.java" afterDir="false" />
+    <list default="true" id="0531ac66-5ce4-4502-b8d3-66b9771271b0" name="Changes" comment="Homework 29.08.2022 t4">
+      <change beforePath="$PROJECT_DIR$/src/lesson3/logika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/logika.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661604999528</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Homework 29.08.2022 t4">
+      <created>1661969716009</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661969716009</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,6 +214,7 @@
     <MESSAGE value="Homework 27.08.2022" />
     <MESSAGE value="Homework 27.08.2022 t2" />
     <MESSAGE value="Homework 27.08.2022 t3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 27.08.2022 t3" />
+    <MESSAGE value="Homework 29.08.2022 t4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 29.08.2022 t4" />
   </component>
 </project>

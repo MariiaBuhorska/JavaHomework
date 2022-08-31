@@ -1,3 +1,5 @@
+package lesson3;
+
 public class logika {
     public static void main(String[] args) {
         int first = 13, second = 54;
