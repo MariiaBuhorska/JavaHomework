@@ -2,7 +2,7 @@ package homework;
 public class Task02 {
     //В переменной n хранится натуральное (целое) трехзначное число. Создайте программу, вычисляющую и выводящую на экран сумму цифр числа n
     public static void main(String[] args) {
-    int n = 155;
+    int n = 111;
     int hundreds = n / 100;
         System.out.println("Cотни = " + hundreds);
     int tens = (n / 10) % 10;

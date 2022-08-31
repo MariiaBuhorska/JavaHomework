@@ -8,7 +8,7 @@ public class EnterData {
         System.out.println("Вы ответили: "+ answer);
         System.out.println("Сколько вам лет?");
         int age = scan.nextInt();
-        System.out.println("Ваш возраст = " + (age-2));
+        System.out.println("Ваш возраст = " + age);
         System.out.println("Какой Ваш вес?");
         double weight = scan.nextDouble();
         System.out.println("Ваш вес:" + weight);
