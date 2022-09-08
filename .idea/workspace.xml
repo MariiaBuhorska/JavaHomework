@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0531ac66-5ce4-4502-b8d3-66b9771271b0" name="Changes" comment="Homework 29.08.2022 t4">
-      <change beforePath="$PROJECT_DIR$/src/lesson3/logika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/logika.java" afterDir="false" />
+    <list default="true" id="0531ac66-5ce4-4502-b8d3-66b9771271b0" name="Changes" comment="Homework 29.08.2022 t5">
+      <change afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/Task4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/Task4_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/LoopFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson5/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson5/SwitchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_29_08_2022/Task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_29_08_2022/Task11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +77,13 @@
       <recent name="C:\Users\user\IdeaProjects\JavaQA22\src\practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task55">
-    <configuration name="Task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_29_08_2022.Task11" />
+  <component name="RunManager" selected="Application.Task4_1">
+    <configuration name="DopTask9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_03_09_2022.DopTask9" />
       <module name="JavaQA22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="homework_03_09_2022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_29_08_2022.Task5" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_03_09_2022.Task1" />
       <module name="JavaQA22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="homework_03_09_2022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_29_08_2022.Task6" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_03_09_2022.Task2" />
       <module name="JavaQA22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="homework_03_09_2022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_29_08_2022.Task8" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_03_09_2022.Task3" />
       <module name="JavaQA22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="homework_03_09_2022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_29_08_2022.Task9" />
+    <configuration name="Task4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_03_09_2022.Task4_1" />
       <module name="JavaQA22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="homework_03_09_2022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task55" />
-        <item itemvalue="Application.Task8" />
-        <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task11" />
-        <item itemvalue="Application.Task9" />
+        <item itemvalue="Application.Task4_1" />
+        <item itemvalue="Application.DopTask9" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661969716009</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Homework 29.08.2022 t5">
+      <created>1661969958473</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661969958473</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,6 +249,7 @@
     <MESSAGE value="Homework 27.08.2022 t2" />
     <MESSAGE value="Homework 27.08.2022 t3" />
     <MESSAGE value="Homework 29.08.2022 t4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 29.08.2022 t4" />
+    <MESSAGE value="Homework 29.08.2022 t5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 29.08.2022 t5" />
   </component>
 </project>
