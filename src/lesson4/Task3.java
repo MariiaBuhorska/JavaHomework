@@ -10,7 +10,7 @@ public class Task3 {
         int one = scanner.nextInt();
         System.out.println("Введите второе число!");
         int two = scanner.nextInt();
-        for (int i = one; i <= two; i++) {
+        for (int i  = Math.min(one, two); i <= Math.max(one, two); i++){
             if (i % 2 == 0) {
                 System.out.println(i);
             }

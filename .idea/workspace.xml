@@ -1,35 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0531ac66-5ce4-4502-b8d3-66b9771271b0" name="Changes" comment="Homework 29.08.2022 t5">
-      <change afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/Task4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/Task4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_03_09_2022/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/LoopFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson5/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson5/SwitchTest.java" afterDir="false" />
+    <list default="true" id="0531ac66-5ce4-4502-b8d3-66b9771271b0" name="Changes" comment="11.09.2022">
+      <change afterPath="$PROJECT_DIR$/src/Other/DopTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/DopTask5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_05_09_2022/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_05_09_2022/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_05_09_2022/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_05_09_2022/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_05_09_2022/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_05_09_2022/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_10_09_2022/DopTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_10_09_2022/DopTask11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_10_09_2022/DopTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_10_09_2022/DopTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_10_09_2022/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_10_09_2022/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_10_09_2022/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_10_09_2022/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/SredneeArifm_Summa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/SummaKratn_3_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson5/palpart2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_29_08_2022/Task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_29_08_2022/Task11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/DopTask10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/DopTask12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/DopTask6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_03_09_2022/DopTask9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_03_09_2022/Task4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_03_09_2022/Task4_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_03_09_2022/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_03_09_2022/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson4/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,16 +79,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\JavaQA22\src\homework_10_09_2022" />
       <recent name="C:\Users\user\IdeaProjects\JavaQA22\src\practice" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="homework_10_09_2022" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Task4_1">
-    <configuration name="DopTask9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_03_09_2022.DopTask9" />
+  <component name="RunManager" selected="Application.DopTask8">
+    <configuration name="DopTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_10_09_2022.DopTask3" />
       <module name="JavaQA22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_03_09_2022.*" />
+          <option name="PATTERN" value="homework_10_09_2022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,8 +100,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_03_09_2022.Task1" />
+    <configuration name="DopTask5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Other.DopTask5" />
+      <module name="JavaQA22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DopTask8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_03_09_2022.DopTask8" />
       <module name="JavaQA22" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +127,11 @@
       </method>
     </configuration>
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_03_09_2022.Task2" />
+      <option name="MAIN_CLASS_NAME" value="homework_05_09_2022.Task2" />
       <module name="JavaQA22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_03_09_2022.*" />
+          <option name="PATTERN" value="homework_05_09_2022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,24 +140,11 @@
       </method>
     </configuration>
     <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_03_09_2022.Task3" />
+      <option name="MAIN_CLASS_NAME" value="homework_10_09_2022.Task3" />
       <module name="JavaQA22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_03_09_2022.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_03_09_2022.Task4_1" />
-      <module name="JavaQA22" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework_03_09_2022.*" />
+          <option name="PATTERN" value="homework_10_09_2022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task4_1" />
-        <item itemvalue="Application.DopTask9" />
-        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.DopTask8" />
+        <item itemvalue="Application.DopTask5" />
         <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.DopTask3" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661969958473</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="08.09.2022">
+      <created>1662664519911</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662664519911</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,6 +266,8 @@
     <MESSAGE value="Homework 27.08.2022 t3" />
     <MESSAGE value="Homework 29.08.2022 t4" />
     <MESSAGE value="Homework 29.08.2022 t5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 29.08.2022 t5" />
+    <MESSAGE value="08.09.2022" />
+    <MESSAGE value="11.09.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.09.2022" />
   </component>
 </project>
