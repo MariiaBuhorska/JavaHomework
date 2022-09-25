@@ -4,9 +4,9 @@ public class Task10 {
     //Определить номер подъезда девятиэтажного дома, по указанному номеру квартиры N.
     // Считать, что на каждом этаже находится M квартир. Вывести в консоль номер подъезда.
     public static void main(String[] args) {
-        double N = 145;
-        double M = 9;
-        final double level = 9;
+        double N = 82;
+        double M = 3;
+        final double level = 5;
         double number = (N / (M * level));
         if (N == 0) {
             System.out.println("Ошибка ввода!");}

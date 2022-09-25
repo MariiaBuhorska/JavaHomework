@@ -14,7 +14,6 @@ public class Task3 {
         String wordSearch = scanner.nextLine();
         System.out.println("Введите слово для замены!");
         String wordChange = scanner.nextLine();
-
-        System.out.println("Видоизмененная строка - " + str.replace(wordSearch, wordChange));
+            System.out.println("Видоизмененная строка - " + str.replace (wordSearch, wordChange));
+        }
     }
-}

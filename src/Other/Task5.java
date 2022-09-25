@@ -1,4 +1,6 @@
-package homework_05_09_2022;
+package Other;
+
+import java.util.Scanner;
 
 public class Task5 {
     //Есть некоторый текст. Реализуйте следующую функциональность
@@ -6,4 +8,11 @@ public class Task5 {
     //■ Посчитайте сколько раз цифры встречаются в тексте;
     //■ Посчитайте сколько раз знаки препинания встречаются в тексте;
     //■ Посчитайте количество предложений в тексте
+    public static void main (String[] args) {
+        Scanner scanner = new Scanner (System.in);
+        System.out.println ("Введите текст!");
+        String str = scanner.nextLine ();
+    }
+
+
 }
